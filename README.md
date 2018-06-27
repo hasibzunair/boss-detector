@@ -1,9 +1,8 @@
 # Boss-detector
-Change your computer screen when your boss is coming.
+Change your computer screen when your boss is coming. Video Link : https://www.youtube.com/watch?v=17ElyWwVVdk&feature=youtu.be
+
 
 # Demo
-
-Video Link : https://www.youtube.com/watch?v=17ElyWwVVdk&feature=youtu.be
 
 Boss is approaching. Here, I am the boss, since my boss is out of the country, literally!
 
