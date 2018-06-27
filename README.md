@@ -17,20 +17,16 @@ If the image is classified as the Boss, it will change the computer screen.
 
 That's how you become employee of the month!
 
+## PREREQUISITES
+- Python 3(32bit)
+- msvc++ 2015 redist
 
-# Dependencies
-
+# Packages and dependencies
+* virtualenv
 * cv2
 * numpy
 * PIL (pillow)
 * tkinter
-
-
-## PREREQUISITES
-
-- Python 3(32bit)
-- msvc++ 2015 redist
-- Python packages: virtualenv, opencv, numpy
 
 # Usage
 
