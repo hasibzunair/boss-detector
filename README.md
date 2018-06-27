@@ -1,6 +1,5 @@
 # Boss-detector
-Change your computer screen when your boss is coming. Video Link : https://www.youtube.com/watch?v=17ElyWwVVdk&feature=youtu.be
-
+Change your computer screen when your boss is coming. 
 
 # Demo
 
@@ -40,6 +39,10 @@ Second, start the boss detector.
 ```
 $ python boss-detector.py
 ```
+
+# Video Link 
+https://www.youtube.com/watch?v=17ElyWwVVdk&feature=youtu.be
+
 
 # Contributing
 
