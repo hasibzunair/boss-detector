@@ -18,9 +18,21 @@ If the image is classified as the Boss, it will change the computer screen.
 That's how you become employee of the month!
 
 
-# Requirements
+# Dependencies
 
 * cv2
 * numpy
 * PIL (pillow)
 * tkinter
+
+# Usage
+
+Firstly, train the program for your boss.
+```
+$ python boss_train.py
+```
+Second, start the boss detector.
+```
+$ python boss-detector.py
+```
+
