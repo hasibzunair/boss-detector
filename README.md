@@ -1,5 +1,5 @@
 # Boss-detector
-Change your computer screen when your boss is coming
+Change your computer screen when your boss is coming.
 
 # Demo
 
@@ -25,14 +25,23 @@ That's how you become employee of the month!
 * PIL (pillow)
 * tkinter
 
+
+## PREREQUISITES
+
+- Python 3(32bit)
+- msvc++ 2015 redist
+- Python packages: virtualenv, opencv, numpy
+
 # Usage
 
-Firstly, train the program for your boss.
+Firstly, setup the virtual environment and train the program for your boss.
 ```
+$ venv\Scripts\activate.bat
 $ python boss_train.py
 ```
 Second, start the boss detector.
 ```
 $ python boss-detector.py
 ```
+
 
