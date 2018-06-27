@@ -44,4 +44,8 @@ Second, start the boss detector.
 $ python boss-detector.py
 ```
 
+# Contributing
+
+There is still scope of improvement in this project. Most welcome to send pull requests. All the the best, being a good employee!
+
 
