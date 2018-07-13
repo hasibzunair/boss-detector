@@ -7,7 +7,7 @@ TRAINED_DATA = os.path.expandvars('.\\training\\trainer.yml')
 STOP_KEYCODE = 27
 TRAINING_SAMPLE_COUNT = 100
 
-# params
+# necessary params
 SCALE = 1.2
 NEARBY = 6
 WINDOW_TITLE = "cv2.imshow()  # ESC to stop"
