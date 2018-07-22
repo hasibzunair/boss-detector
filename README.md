@@ -43,9 +43,11 @@ $ python boss-detector.py
 # Video Link 
 https://www.youtube.com/watch?v=17ElyWwVVdk&feature=youtu.be
 
-
 # Contributing
-
 There is still scope of improvement in this project. Most welcome to send pull requests. All the the best, being a good employee!
+# License
+[MIT](https://github.com/hasibzunair/boss-detector/blob/master/LICENSE)
 
+# Author
+[Hasib Zunair](http://hasibzunair.github.io/)
 
