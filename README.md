@@ -1,7 +1,7 @@
 # Boss-detector
 Change your computer screen when your boss is coming. 
 
-# Demo
+## Demo
 
 Boss is approaching. Here, I am the boss, since my boss is out of the country, literally!
 
@@ -21,14 +21,14 @@ That's how you become employee of the month!
 - Python 3(32bit)
 - msvc++ 2015 redist
 
-# Packages and dependencies
+## Packages and dependencies
 * virtualenv
 * cv
 * numpy
 * PIL (pillow)
 * tkinter
 
-# Usage
+## Usage
 
 Firstly, setup the virtual environment and train the program for your boss.
 ```
@@ -40,14 +40,14 @@ Second, start the boss detector.
 $ python boss-detector.py
 ```
 
-# Video Link 
+## Video Link 
 https://www.youtube.com/watch?v=17ElyWwVVdk&feature=youtu.be
 
-# Contributing
+## Contributing
 There is still scope of improvement in this project. Most welcome to send pull requests. All the the best, being a good employee!
-# License
+## License
 [MIT](https://github.com/hasibzunair/boss-detector/blob/master/LICENSE)
 
-# Author
+## Author
 [Hasib Zunair](http://hasibzunair.github.io/)
 
