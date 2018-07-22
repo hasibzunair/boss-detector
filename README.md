@@ -23,7 +23,7 @@ That's how you become employee of the month!
 
 # Packages and dependencies
 * virtualenv
-* cv2
+* cv
 * numpy
 * PIL (pillow)
 * tkinter
