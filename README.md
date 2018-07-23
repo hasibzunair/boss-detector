@@ -39,6 +39,11 @@ Second, start the boss detector.
 ```
 $ python boss-detector.py
 ```
+## Takeaways
+
+* To use this, place your webcam at a position where you know your boss will come in that region. Works well even when boss is six to seven feet away from the camera
+
+* Double check training images, xml file path(s) before running the program
 
 ## Video Link 
 https://www.youtube.com/watch?v=17ElyWwVVdk&feature=youtu.be
