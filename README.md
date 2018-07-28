@@ -13,7 +13,7 @@ As he is approaches, the program fetches face images and classifies the image.
 
 If the image is classified as the Boss, it will change the computer screen.
 
-![alt text](https://github.com/hasibzunair/boss-detector/blob/master/demo%20pictures/fake_screen.png)
+![alt text](https://github.com/hasibzunair/boss-detector/blob/master/demo%20pictures/fake-screen.png)
 
 That's how you become employee of the month!
 
