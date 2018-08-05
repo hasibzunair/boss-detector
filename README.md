@@ -1,5 +1,18 @@
-# Boss-detector
-Change your computer screen when your boss is coming. 
+ 
+<p align="center">
+  <a href="#"><img src="https://github.com/hasibzunair/boss-detector/blob/master/demo%20pictures/strategy.png" height=100/></a>
+</p>
+
+<h1 align="center">
+  Boss Detector
+</h1>
+<p align="center">
+  Change your computer screen when your boss is coming.
+</p>
+<br/>
+
+
+
 
 ## Demo
 
