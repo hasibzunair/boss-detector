@@ -4,12 +4,26 @@
 </p>
 
 <h1 align="center">
-  Boss Detector
+  Boss Detector using Facial Recognition
 </h1>
 <p align="center">
   Change your computer screen when your boss is coming.
 </p>
 <br/>
+
+<p align="center">
+  <a href="#"><img src="https://github.com/hasibzunair/boss-detector/blob/master/demo%20pictures/process.png" height=100/></a>
+</p>
+<p align="center">
+  How it works?
+</p>
+<p align="center">
+  A program that detects when your boss is approaching and changes the computer screen instantly. It uses the classical cascade classification algorithm for facial recognition. Upon detecting the boss, the interface changes the computer screen. It is a fun way to implement facial recognition.
+</p>
+<br/>
+
+
+
 
 
 
