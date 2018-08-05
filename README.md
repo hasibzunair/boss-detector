@@ -18,7 +18,7 @@
   How it works?
 </p>
 <p align="center">
-  A program that detects when your boss is approaching and changes the computer screen instantly. It uses the classical cascade classification algorithm for facial recognition. Upon detecting the boss, the interface changes the computer screen. It is a fun way to implement facial recognition.
+  A program that detects when your boss is approaching and changes the computer screen instantly. It uses the classical LBPHFaceRecognizer algorithm for facial recognition. Upon detecting the boss, the interface changes the computer screen. It is a fun way to implement facial recognition.
 </p>
 <br/>
 
