@@ -7,12 +7,12 @@
   Boss Detector using Facial Recognition
 </h1>
 <p align="center">
- 
+  Change your computer screen when your boss is coming.
+</p>
+
 [![Python 3.6](https://img.shields.io/badge/Python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
-  Change your computer screen when your boss is coming.
-</p>
 <br/>
 
 <p align="center">
