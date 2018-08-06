@@ -76,8 +76,8 @@ $ python boss-detector.py
 
 * Double check training images, xml file path(s) before running the program
 
-## Video Link 
-https://www.youtube.com/watch?v=17ElyWwVVdk&feature=youtu.be
+## Video Demo
+Click [here](https://www.youtube.com/watch?v=17ElyWwVVdk&feature=youtu.be) for the demo.
 
 ## Contributing
 There is still scope of improvement in this project. Most welcome to send pull requests. All the the best, being a good employee!
