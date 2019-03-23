@@ -43,8 +43,8 @@ If the image is classified as the Boss, it will change the computer screen.
 That's how you become employee of the month!
 
 ## PREREQUISITES
-- Python 3(32bit)
-- msvc++ 2015 redist
+- Python 3.6
+- OpenCV 3+
 
 ## Packages and dependencies
 * virtualenv
@@ -69,6 +69,8 @@ $ python boss-detector.py
 * To use this, place your webcam at a position where you know your boss will come in that region. Works well even when boss is six to seven feet away from the camera
 
 * Double check training images, xml file path(s) before running the program
+
+* Delete contents inside the data folder to make new changes if any.
 
 ## Video Demo
 Click [here](https://www.youtube.com/watch?v=17ElyWwVVdk&feature=youtu.be) for the demo.

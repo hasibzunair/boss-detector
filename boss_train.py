@@ -5,7 +5,7 @@ from __config__ import *
 
 
 face_detector = cv2.CascadeClassifier(CASCADE_FILE)
-face_recognizer = cv2.face.createLBPHFaceRecognizer()
+face_recognizer = cv2.face.LBPHFaceRecognizer_create()
 
 # build dataset for face recognizer
 def build():
@@ -56,7 +56,7 @@ def train():
     face_ids = []
     face_dirs = list(walk(DATASETS_DIR))[0][1]
     face_dirs = list(map(lambda d:path.join(DATASETS_DIR, d), face_dirs))
-    print("training... this can take a while.")
+    print("training... this will take a while.")
     for face_dir in face_dirs:
         face_id = int(path.basename(face_dir))
         id_imgs = list(walk(face_dir))[0][2]
@@ -72,5 +72,9 @@ def train():
     face_recognizer.train(face_data, numpy.array(face_ids))
     face_recognizer.save(TRAINED_DATA)
 
+
+print("building...")
 build()
+print("training...")
 train()
+print("done...")

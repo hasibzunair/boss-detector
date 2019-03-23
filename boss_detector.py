@@ -8,8 +8,9 @@ from PIL import Image, ImageTk
 import tkinter
 
 face_detector = cv2.CascadeClassifier(CASCADE_FILE)
-face_recognizer = cv2.face.createLBPHFaceRecognizer()
-face_recognizer.load(TRAINED_DATA)
+face_recognizer = cv2.face.LBPHFaceRecognizer_create() 
+face_recognizer.read(TRAINED_DATA)
+
 names = {}
 name_files = list(walk(DATASETS_DIR))[0][2]
 
