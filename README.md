@@ -22,7 +22,10 @@
   How it works?
 </h2>
 <p align="center">
-  A program that detects when your boss is approaching and changes the computer screen instantly. It uses the classical LBPH algorithm for facial recognition. Initally the system is training with the boss's face. Upon detecting the boss, the interface changes the computer screen. It is a fun way to implement facial recognition.
+
+A program that detects when your boss is approaching and changes the computer screen instantly. It uses the classical LBPH algorithm for facial recognition. Initially the system is training with the boss's face. When boss is detected, the interface changes the computer screen. It is a fun way to implement facial recognition! Video demo [here](https://www.youtube.com/watch?v=17ElyWwVVdk).
+
+
 </p>
 <br/>
 
