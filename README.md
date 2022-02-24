@@ -9,7 +9,7 @@ Change your monitor screen when your boss is coming towards you!
 
 ```mermaid
 flowchart TD
-	A[Face image from camera] --> B{Is it boss?};
+	A[Get face image from camera] --> B{Is it your boss?};
 	B -- Yes --> C[Change monitor screen!];
 	C -- No --> A;
 ```
