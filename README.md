@@ -1,27 +1,18 @@
- 
-<p align="center">
-  <a href="#"><img src="https://github.com/hasibzunair/boss-detector/blob/master/demo%20pictures/strategy.png" height=100/></a>
-</p>
+## Boss detector using facial recognition
 
-<h1 align="center">
-  Boss Detector using Facial Recognition
-</h1>
-<p align="center">
-  Change your computer screen when your boss is coming.
-</p>
+Change your monitor screen when your boss is coming towards you!
 
 [![Python 3.6](https://img.shields.io/badge/Python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
 [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
 <br/>
 
-<p align="center">
-  <a href="#"><img src="https://github.com/hasibzunair/boss-detector/blob/master/demo%20pictures/process.png" height=100/></a>
-</p>
-<h2 align="center">
-  How it works?
-</h2>
-<p align="center">
+```mermaid
+flowchart TD
+	A[Face image from camera] --> B{Is it boss?};
+	B -- Yes --> C[Change monitor screen!];
+	C -- No --> A;
+```
 
 A program that detects when your boss is approaching and changes the computer screen instantly. It uses the classical LBPH algorithm for facial recognition. Initially the system is training with the boss's face. When boss is detected, the interface changes the computer screen. It is a fun way to implement facial recognition! Video demo [here](https://www.youtube.com/watch?v=17ElyWwVVdk).
 
